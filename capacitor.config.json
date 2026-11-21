@@ -1,0 +1,9 @@
+{
+  "appId": "com.devabu.cannonmerge",
+  "appName": "Cannon Merge",
+  "webDir": "www",
+  "backgroundColor": "#0b3550",
+  "android": {
+    "allowMixedContent": false
+  }
+}
